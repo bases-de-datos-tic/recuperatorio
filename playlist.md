@@ -14,7 +14,7 @@ Tomando como base el TP3 que ya desarrollaron, agregar la siguiente funcionalida
 - POST: Agrega una cancion a una playlist: recibe playlist_id y cancion_id
 - DELETE: Borra una cancion de una playlist:  recibe playlist_id y cancion_id
 - GET: devuelve todas las canciones de una playlist: recibe playlist_id
-- 
+  
 ### Crear el controller playlist.js que debe contener los 3 metodos a ser llamados desde los endpoints en index.js
 
 ## Entrega
