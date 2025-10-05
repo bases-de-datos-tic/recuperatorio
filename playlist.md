@@ -1,6 +1,6 @@
-# HISTORIAL 
+# PLAYLIST 
 
-Tomando como base el TP3 que ya desarrollaron, agregar la siguiente funcionalidad:
+Tomando como base el TP3 que ya desarrollaron (pueden usar el mismo repo), agregar la siguiente funcionalidad:
 
 ## Base de datos
 
