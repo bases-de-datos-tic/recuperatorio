@@ -20,8 +20,8 @@ Tomando como base el TP3 que ya desarrollaron, agregar la siguiente funcionalida
 ### Crear el controller historial.js que debe contener los 3 metodos a ser llamados desde los endpoints en index.js
 
 ## Entrega
-1. La fecha de entrega es a partir del viernes 17 de octubre, puede ser cualquier martes o viernes por la mañana.
-2. Se deben presentar ambos integrantes del grupo, con una notebook que tenga el codigo funcionando
-3. Se va a evaluar que funcionen los endpoints, requeridos y que puedan explicar el codigo que hicieron. 
-4. En particular el recorrido de un dato desde que sale de POSTMAN hasta que accede a la base de datos a traves de las 3 capas(front, back y SQL)
+- La fecha de entrega es a partir del viernes 17 de octubre, puede ser cualquier martes o viernes por la mañana.-
+- Se deben presentar ambos integrantes del grupo, con una notebook que tenga el codigo funcionando
+- Se va a evaluar que funcionen los endpoints, requeridos y que puedan explicar el codigo que hicieron. 
+- En particular el recorrido de un dato desde que sale de POSTMAN hasta que accede a la base de datos a traves de las 3 capas(postman, backend y SQL)
 
